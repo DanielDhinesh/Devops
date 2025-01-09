@@ -17,5 +17,6 @@ Log Archive Tool
 
 https://roadmap.sh/projects/log-archive-tool
 
-<img width="854" alt="image" src="https://github.com/user-attachments/assets/37614ee3-236a-46c6-8fed-f7739e4f8cb4" />
+<img width="841" alt="image" src="https://github.com/user-attachments/assets/2f51a61a-436d-4385-87fd-a24c5207154b" />
+
 
